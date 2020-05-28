@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/note-react/static/css/main.29f720eb.chunk.css",
+    "main.js": "/note-react/static/js/main.b3f80ed2.chunk.js",
+    "main.js.map": "/note-react/static/js/main.b3f80ed2.chunk.js.map",
+    "runtime-main.js": "/note-react/static/js/runtime-main.8bd2353e.js",
+    "runtime-main.js.map": "/note-react/static/js/runtime-main.8bd2353e.js.map",
+    "static/js/2.5aa3fd7b.chunk.js": "/note-react/static/js/2.5aa3fd7b.chunk.js",
+    "static/js/2.5aa3fd7b.chunk.js.map": "/note-react/static/js/2.5aa3fd7b.chunk.js.map",
+    "index.html": "/note-react/index.html",
+    "precache-manifest.5eb2ae4a097f006c84c5ff69997e6022.js": "/note-react/precache-manifest.5eb2ae4a097f006c84c5ff69997e6022.js",
+    "service-worker.js": "/note-react/service-worker.js",
+    "static/css/main.29f720eb.chunk.css.map": "/note-react/static/css/main.29f720eb.chunk.css.map",
+    "static/js/2.5aa3fd7b.chunk.js.LICENSE.txt": "/note-react/static/js/2.5aa3fd7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bd2353e.js",
+    "static/js/2.5aa3fd7b.chunk.js",
+    "static/css/main.29f720eb.chunk.css",
+    "static/js/main.b3f80ed2.chunk.js"
+  ]
+}
