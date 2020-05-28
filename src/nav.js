@@ -20,14 +20,12 @@ class Nav extends Component {
           <div className="collapse navbar-collapse  justify-content-end" id="collapsibleNavId">
             <ul className="navbar-nav  mt-2 mt-lg-0 float-right">
               <li className="nav-item active">
-                <a className="nav-link" href="o">Home <span className="sr-only">(current)</span></a>
+                <a className="nav-link" href="#">Home <span className="sr-only">(current)</span></a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="o" onClick={(event) => this.handleAdd(event) }>Thêm ghi chú</a>
+                <a className="nav-link" href="#" onClick={(event) => this.handleAdd(event) }>Thêm ghi chú</a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="o">Link</a>
-              </li>
+ 
             </ul>
           </div>
         </nav>
